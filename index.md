@@ -1,20 +1,43 @@
 # DevOps Malayalam
 
 **DevOps Certification[Beginner]**
+
 _14 July 201 _
 
 ## Key Takeaways
 
 * Certification helps to learn systematically and gives clear idea about the concepts
+* RedHat Certification
+    * RHCE Certification better for beginners
+    * For Sysadmin roles
+    * Ansible is included now
+    * Certification is hands-on so companies give priority for redhat 
+* Docker Certifications
+    * Docker Certified Associate - Intro to docker, MCQ based, 70 to pass
+* Kubernetes Certification
+  * 3 Certifications
+      * CKA - Hands-on, 3 year valid 
+      * CKAD - Developer View (Configuration), 3 year valid 
+      * CKS - Security related, need valid CKA,  2 years validity
+* AWS Certification
+    * [AWS ReSkill Platform](https://awsreskill.com/signup?source=7dd1daac&medium=direct) 
+    * 3 levels + Cloud Practitioner (Entry levels for a fresher)
+      * Associate Level(3 certification)
+      * Professional Level (2 certification)
+      * Specialist Certification
+* Azure Certification
+  * 3 Levels of certification
+* [White Papers](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all&awsf.whitepapers-global-methodology=*all) - AWS WhitePapers are great resource which helps us in certifications 
+* YAML - Knowledge in YAML is in high demand
+* Python - Having knowledge in Python is helpful
 
 
+### Follow Us On
 
-You can use the [editor on GitHub](https://github.com/DevOps-Malayalam/Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DevOps-Malayalam/Test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[LinkedIn](https://www.linkedin.com/company/devopsmalayalam)
+[ClubHouse](https://github.com/DevOps-Malayalam/Test/settings/pages)
+[Telegram](https://t.me/joinchat/tninMc2bBGdiY2E1)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Queries❓](https://docs.google.com/forms/d/e/1FAIpQLSdXmOgcM1zqVVONSZkrQ_twl2D9G8UBesN5OJ4xMZj_yXgebg/viewform)
