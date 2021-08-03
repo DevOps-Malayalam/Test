@@ -37,6 +37,7 @@ _14 July 201 _
 [LinkedIn](https://www.linkedin.com/company/devopsmalayalam)
 [ClubHouse](https://github.com/DevOps-Malayalam/Test/settings/pages)
 [Telegram](https://t.me/joinchat/tninMc2bBGdiY2E1)
+[Slack](https://join.slack.com/t/devopsmalayalam/shared_invite/zt-tuws4bts-9ZhKh5snDTuv8m7FiECv~g)
 
 ### Support or Contact
 
